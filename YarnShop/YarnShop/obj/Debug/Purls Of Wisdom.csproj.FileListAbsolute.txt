@@ -1,0 +1,27 @@
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\Purls Of Wisdom.csproj.AssemblyReference.cache
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.AttendeeBox.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.UserControlBlank.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.CalendarBox.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Homepage.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Customers.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Events.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewCustOrder.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewSupplierOrder.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewCustomer.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewEvent.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewProduct.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NewSupplier.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Notices.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Orders.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Products.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.Suppliers.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.NoticeBox.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\YarnShop.CalendarDay.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\Purls Of Wisdom.csproj.GenerateResource.cache
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\Purls Of Wisdom.csproj.CoreCompileInputs.cache
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\bin\Debug\Purls Of Wisdom.exe.config
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\bin\Debug\Purls Of Wisdom.exe
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\bin\Debug\Purls Of Wisdom.pdb
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\PurlsOfWisdom.Properties.Resources.resources
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\Purls Of Wisdom.exe
+C:\Users\annia\OneDrive - Wolverhampton Girls' High School\visual\YarnShop\YarnShop\obj\Debug\Purls Of Wisdom.pdb
